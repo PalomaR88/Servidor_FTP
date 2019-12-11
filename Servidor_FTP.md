@@ -318,5 +318,4 @@ ftp> ls
 ftp> 
 ~~~
 
-#### Script
 
